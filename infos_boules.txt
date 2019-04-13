@@ -1,0 +1,16 @@
+172, 67,boule_rouge.png
+207, 67,boule_rouge.png
+242, 67,boule_jaune.png
+277, 67,boule_rouge.png
+312, 67,boule_jaune.png
+189, 99,boule_jaune.png
+224, 99,boule_rouge.png
+259, 99,boule_jaune.png
+294, 99,boule_rouge.png
+207, 131,boule_rouge.png
+242, 131,boule_rouge.png
+277, 131,boule_jaune.png
+224, 163,boule_jaune.png
+259, 163,boule_rouge.png
+242, 195,boule_jaune.png
+242, 717,boule_blanche.png
