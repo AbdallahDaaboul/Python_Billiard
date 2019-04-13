@@ -1,2 +1,5 @@
 # Python_Billiard
-Billiard Game
+
+COMPILE USING COMMAND " python affichage.py "
+
+AND ENJOY THE GAME :D
